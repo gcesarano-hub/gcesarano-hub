@@ -1,14 +1,14 @@
 # ¡Hola! Soy Guiseppe Cesarano 👋 
 
-### Full Stack Developer | Apasionado por la resolución de problemas y el código limpio
+### Recruiter and Career Coach Specialist at 4Geeks Academy | Full Stack Developer | Apasionado por la resolución de problemas y el código limpio
 
 ---
 
 ## 🚀 Sobre mí
 Tras mi formación intensiva en **4Geeks Academy**, he consolidado mis habilidades técnicas para aportar valor desde el primer día en entornos profesionales. Mi enfoque combina la agilidad técnica con la resiliencia y el aprendizaje continuo.
 
-- 🔭 **Actualmente trabajando en:** [Nombre de tu proyecto principal o "Proyectos Full Stack escalables"]
-- 🌱 **Aprendiendo:** [Menciona una tecnología que estés explorando ahora, ej: TypeScript, AWS o Docker]
+- 🔭 **Actualmente trabajando en:** Proyectos Full Stack escalables
+- 🌱 **Aprendiendo:** AWS
 - 🤝 **Disponibilidad:** Busco colaborar en proyectos de código abierto y retos profesionales que requieran soluciones creativas.
 - ⚡ **Propuesta de Valor:** Experiencia en despliegue a producción, manejo de bases de datos y trabajo en equipo bajo metodologías ágiles.
 
@@ -33,10 +33,6 @@ Tras mi formación intensiva en **4Geeks Academy**, he consolidado mis habilidad
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gcesarano-hub&show_icons=true&theme=tokyonight)
 
 ---
 
